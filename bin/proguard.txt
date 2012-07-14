@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:74
+-keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.google.android.gcm.demo.app.DemoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.google.android.gcm.demo.app.GCMIntentService { <init>(...); }
+
